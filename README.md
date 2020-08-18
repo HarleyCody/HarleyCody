@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on building a website to record growth of developer
-- 🌱 I’m currently learning JVM
+- 🌱 I’m currently improving React and JavaScript
 - 👯 I’m looking to collaborate on Ansys Sherlock electrical reliability
 - 🤔 I’m looking for help with money investment suggestions
 - 💬 Ask me about JHU, Ansys, Sherlock, Java and welcome to discuss all kinds of techniques
